@@ -4,15 +4,9 @@
   "private": true,
   "dependencies": {
     "prop-types": "^15.6.2",
-<<<<<<< HEAD
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-router-dom": "^5.3.4",
-=======
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-router-dom": "^5.3.0",
->>>>>>> 5cf4413088be4d2f9dedfa4089566e9e24ee54c1
     "react-scripts": "2.1.1"
   },
   "scripts": {
